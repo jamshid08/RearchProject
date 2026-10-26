@@ -34,7 +34,7 @@ This repository contains the official code and supplementary materials for the M
 
 ## 📂 Repository Structure
 ```text
-├── data_preprocessed_python/      # Folder containing DEAP .dat files (s01.dat to s10.dat)
+├── data_preprocessed_python/      # Folder containing DEAP .dat files (s01.dat to s10.dat) features extracted.
 ├── plots/                         # Output folder for generated 300-DPI figures
 ├── extract_features.py            # Script to extract 160-D DE features from raw .dat files
 ├── baseline_svm.py                # Script to run the class-weighted baseline SVM
